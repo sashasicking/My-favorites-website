@@ -1,0 +1,31 @@
+html {
+   text-align: center;
+   background-color: rgb(255, 184, 94);
+}
+
+p {
+   font-size: 65px;
+}
+
+ul {
+   font-size: 65px;
+   font-family: sans-serif;
+}
+
+h1 {
+   font-size: 200px;
+   font-family: serif;
+}
+
+h2 {
+   font-size: 125px;
+   font-family: serif;
+}
+
+li {
+   font-size: 65px;
+}
+img {
+   width: 1300px;
+   height: auto;
+}
